@@ -1,0 +1,10 @@
+[package]
+name = "licore"
+version = "0.1.0"
+authors = ["Jan Teske <jteske@posteo.net>"]
+description = "Parser for Linux core files"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+structview = "1"
